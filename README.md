@@ -23,6 +23,13 @@ Simple voice-based desktop/laptop assistant that has the capability to:
 Showing the Weather Report of specific city
 ![16](https://user-images.githubusercontent.com/52618459/126265894-56aa1402-70b5-4bd5-ad4d-e958624ac6e2.png)
 
+Opening Notepad
+![image9](https://user-images.githubusercontent.com/52618459/126266153-09a65e02-d7dd-4a7c-acca-2dd856878355.png)
+
+Doing Mathematical Calcutaions
+![image15](https://user-images.githubusercontent.com/52618459/126266208-484036d2-462e-4249-a45d-29f71a1c7940.png)
+
+
 
 
 
