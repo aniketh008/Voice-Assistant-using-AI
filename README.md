@@ -19,6 +19,12 @@ Simple voice-based desktop/laptop assistant that has the capability to:
 10. Tells you latest news feeds.
 11. Tells you about almost anything you ask.
 
-Interaction with Voice assistant: (Will upoad soon)
+# Interaction with Voice assistant:
+Showing the Weather Report of specific city
+![16](https://user-images.githubusercontent.com/52618459/126265894-56aa1402-70b5-4bd5-ad4d-e958624ac6e2.png)
+
+
+
+
 
 You can read [this](https://www.theaidream.com/post/build-your-first-voice-assistant) article to understand step by step approach to build this voice assistant.
