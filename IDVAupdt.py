@@ -28,6 +28,7 @@ def speak(audio):
     print(audio)
 #greets user
 
+# Greeting the user
 def greetUser():
     hour = int(datetime.datetime.now().hour)
     if hour>=0 and hour<12:
@@ -43,7 +44,7 @@ def greetUser():
     speak("I am your assistant, " + asstname)
     speak("Please tell me how can I help you?")
    
-#It takes microphone input from the user and returns string/text output
+#It takes input from the user with the help of microphone and returns string/text output
 
 def take_command():
     r = sr.Recognizer()
