@@ -27,7 +27,7 @@ A voice assistant or intelligent personal assistant is a software agent that can
 - Tells you the current time.
 - Play you a song on VLC media player.
 - Tells you latest news feeds.
-- Tells you about almost anything you ask.
+- Tells you about almost anything you ask
 
   
 ## Installation
